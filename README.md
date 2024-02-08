@@ -1,0 +1,2 @@
+# ft_tinimalk
+tinimalk
